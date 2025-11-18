@@ -23,7 +23,7 @@ Gallery → (pending your publish)
 
 ## Quick start
 
-```bash
+\`\`\`bash
 git clone https://github.com/Wolfe-Jam/v0-zero-faf-builder.git
 cd v0-zero-faf-builder
 npm install
